@@ -1,0 +1,4 @@
+out_d1/
+__pycache__/
+*.pyc
+*.tgz
