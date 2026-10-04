@@ -1,4 +1,6 @@
+resume-src/
 out_d1/
+out_d2/
 __pycache__/
 *.pyc
-*.tgz
+*.zip
